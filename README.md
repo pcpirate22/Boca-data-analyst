@@ -1,2 +1,2 @@
 # Boca-data-analyst
-A small data analysis of Boca Juniors' performance in the Argentine league
+Analyzes Boca Juniors' 2026 Torneo Apertura group stage results using pure Python
